@@ -1,0 +1,17 @@
+{
+  "name": "idk",
+  "version": "1.0.0",
+  "description": "Chat app by HZ",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve src/ ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^10.5.0",
+    "serve": "^14.2.1"
+  }
+}
