@@ -1,2 +1,2 @@
 # Hz-Chat
-A simple chat app built from scratch using html ,js ,css ,hosted on firebase
+A simple chat app hosted on firebase built from scratch using html ,js ,css
